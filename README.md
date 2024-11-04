@@ -1,2 +1,2 @@
 # RollABall
-A short game about a rolling ball who needs to dodge obstacles, made with Unity.
+A short game about a rolling ball which needs to dodge obstacles, made with Unity.
